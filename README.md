@@ -1,2 +1,3 @@
 # hello-world
-First repository from training exercise.
+
+Hello everyone, bla bla bla.
